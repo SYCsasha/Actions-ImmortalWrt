@@ -6,3 +6,6 @@
 git clone https://github.com/jerrykuku/luci-theme-argon package/luci-theme-argon
 git clone https://github.com/jerrykuku/luci-app-argon-config package/luci-app-argon-config
 git clone https://github.com/gdy666/lucky package/lucky
+git clone https://github.com/gdy666/luci-app-lucky package/luci-app-lucky
+git clone https://github.com/sbwml/luci-app-alist package/alist
+git clone https://github.com/rufengsuixing/luci-app-adguardhome package/luci-app-adguardhome
